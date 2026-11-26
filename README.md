@@ -1,6 +1,6 @@
 # AI Code Auditor
 
-**Live demo:** https://ai-code-auditor.vercel.app
+**Live demo:** https://ai-code-auditor-two.vercel.app
 
 Paste source or a public GitHub file URL. The auditor returns structured findings, each with a line number, severity, CWE id, a short explanation and a suggested fix. The model output is validated with Zod; a malformed reply is retried once.
 
